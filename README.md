@@ -3,10 +3,10 @@
 This project was build as problem statement given by oasis as a intership program on JAVA DEVELOPMENT...
 
 defining problem statement:
-*The computer will genrate the any number between 1 to 100 you as a user will have to guess what could be the number.
-*For you to guess the number computer will provite hints that number you have guess is either greter or lower than the genrated number
-*Remember only 10 chances will be given to you to guess the num
-*Computer will decide the score according your number of guess
+*The computer will generate the any number between 1 to 100, you as a user will have to guess what could be the number.
+*For you to guess the number computer will provite hints that number you have guess is either greter or lower than the generated number.
+*Remember only 10 chances will be given to you to guess the number.
+*Computer will decide the score according your number of guess.
 
 
 working of the project is explained by :
@@ -23,4 +23,4 @@ If the user chooses to quit, their final score (calculated based on the number o
 Hoping that project source code is readable and easily undersandable to all who are able to access this project!!
 
 stay updated...
-I will come up with more such project which will boost you intellegenc and make you learen tech oriented skill.
+I will come up with more such project which will boost you intelligence and make you learn tech oriented skill.
