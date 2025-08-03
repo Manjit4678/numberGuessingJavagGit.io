@@ -15,7 +15,7 @@ public class num_guess_game {
         int attempts = 0; // number of attempts made by the user
         int score = 0; // score of the user
         
-        
+        //Manjit using for learning purpose
         //In this implementation, the `Random` class is used to generate a random number between the given range.
         //The `JOptionPane` class is used to display a dialogue box for user input and output.
         
